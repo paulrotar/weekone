@@ -1,0 +1,22 @@
+{
+  "name": "weekone",
+  "version": "1.0.0",
+  "description": "\"# weekone\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulrotar/weekone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulrotar/weekone/issues"
+  },
+  "homepage": "https://github.com/paulrotar/weekone#readme",
+  "dependencies": {
+    "mongodb": "^2.2.31"
+  }
+}
